@@ -8,12 +8,11 @@
 
 ## What we build
 
-
+### 🖥️ USBridge KVM 2.0
 <div align="center">
 <img src="https://raw.githubusercontent.com/USBridge-Technologies/.github/main/profile/KVM_USBridge.png" width="100%" />
  </div>
  
-### 🖥️ USBridge KVM 2.0
 Hardware KVM-over-IP via a single USB connection. BIOS access over SSH, no agents, no cloud.
 
 - BIOS-in-Terminal — OCR on-device, text stream over SSH
