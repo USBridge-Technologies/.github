@@ -1,11 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/USBridge-Technologies/.github/main/profile/banner_USBridge.png" width="100%" />
-  
-  # USBridge Technologies
-  
-  **Hardware KVM · Remote Access Software · Modular Accessories**
-  
-  [Crowdsupply](https://crowdsupply.com/usbridge-technologies/usbridge-kvm-2-0) · [Website](https://www.usbridge.io) · [Discord](https://discord.gg/xqQ6ybkfWS) · [Reddit](https://www.reddit.com/r/USBridge/)
+
+[Crowdsupply](https://crowdsupply.com/usbridge-technologies/usbridge-kvm-2-0) · [Website](https://www.usbridge.io) · [Discord](https://discord.gg/xqQ6ybkfWS) · [Reddit](https://www.reddit.com/r/USBridge/)
 </div>
 
 ---
