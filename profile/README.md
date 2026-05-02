@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.usbridge.io/logo.png" width="120" />
+<img src="https://raw.githubusercontent.com/USBridge-Technologies/.github/main/profile/banner_USBridge.png" width="100%" />
   
   # USBridge Technologies
   
