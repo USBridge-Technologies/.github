@@ -8,7 +8,7 @@
 
 ## What we build
 
-### 🖥️ USBridge KVM 2.0
+### USBridge KVM 2.0
 <div align="center">
 <img src="https://raw.githubusercontent.com/USBridge-Technologies/.github/main/profile/KVM_USBridge.png" width="100%" />
  </div>
