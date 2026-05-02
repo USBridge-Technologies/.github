@@ -37,13 +37,5 @@ Free remote desktop software. Works standalone or with KVM hardware.
 
 → [Hardware repo](https://github.com/USBridge-Technologies/Hardware)
 
----
 
-## Repositories
 
-| Repo | Description |
-|------|-------------|
-| [USBridge-KVM-2.0](https://github.com/USBridge-Technologies/USBridge-KVM-2.0) | KVM firmware & docs |
-| [USBridge-Remote](https://github.com/USBridge-Technologies/USBridge-Remote) | Remote access software |
-| [USBridge-Flip-HAT-1.3-LCD](https://github.com/USBridge-Technologies/USBridge-Flip-HAT-1.3-LCD) | Display module |
-| [Hardware](https://github.com/USBridge-Technologies/Hardware) | PCB, 3D models, STL/STEP |
