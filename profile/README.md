@@ -18,7 +18,7 @@ Hardware KVM-over-IP via a single USB connection. BIOS access over SSH, no agent
 - BIOS-in-Terminal — OCR on-device, text stream over SSH
 - Immutable Btrfs snapshots — host can't touch them
 - Virtual media & ISO mounting
-- ATX power control
+- Power Management Module
 
 → [Pre-launch on Crowdsupply](https://crowdsupply.com/usbridge-technologies/usbridge-kvm-2-0)
 
@@ -37,7 +37,7 @@ Free remote desktop software. Works standalone or with KVM hardware.
 
 ### 🔧 Modular Accessories
 - **Flip-HAT LCD** — 1.3" IPS rear-mount display for Pi Zero. Heatsink-compatible.
-- Active cooling systems, enclosures, ATX breakout boards — in development
+- Active cooling systems, enclosures, Power Management Module breakout boards — in development
 
 → [Hardware repo](https://github.com/USBridge-Technologies/Hardware)
 
