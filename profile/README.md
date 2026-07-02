@@ -57,7 +57,7 @@ We are an engineering-driven team focused on pushing the boundaries of infrastru
 
 | Lead Developer | Product Manager |
 | :--- | :--- |
-| <div align="center"><img src="https://github.com/user-attachments/assets/4b882809-a16c-4e84-b5cf-29443e403003" width="150" style="border-radius:50%"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/69d31b1f-1851-40a3-9f81-284cf7e2b659" width="150" style="border-radius:50%"/></div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/8ff4c8cf-6a84-40ad-b609-9fcb2438197d" width="150" style="border-radius:50%"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/d73c19d6-3969-434c-a7d7-edb8a8643931" width="150" style="border-radius:50%"/></div> |
 | **Amir Farkulin** | **Tetiana Bohomol** |
 | Systems & Firmware Architect | Operations & Strategy |
 | Focus: Low-level protocols, hardware integration, streaming optimization. | Focus: Product roadmap, component sourcing, partner relations. |
