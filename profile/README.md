@@ -14,7 +14,7 @@
 ### USBridge KVM 2.0
 Hardware KVM-over-IP via a single USB connection. Secure BIOS access over SSH with no external dependencies or cloud reliance.
 
-<img width="2000" height="726" alt="Gemini_Generated_Image_bdtsa0bdtsa090bdts" src="https://github.com/user-attachments/assets/f059904e-e1cb-46f7-96af-d4a289246e65" />
+<img width="1200" height="436" alt="Gemini_Generated_Image_bdtsa0bdtsa090bdts22" src="https://github.com/user-attachments/assets/48b9906f-86a0-4d84-9ebe-6a50c62b649d" />
 
 * **BIOS-in-Terminal:** Real-time on-device OCR translating video environment into a text stream over SSH.
 * **Immutable Storage:** Block-level isolated Btrfs snapshot subsystem to protect backups from host-side tampering.
