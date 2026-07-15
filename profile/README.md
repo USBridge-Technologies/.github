@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/USBridge-Technologies/.github/main/profile/banner_USBridge.png" width="100%" alt="USBridge Banner" />
+<img width="1200" height="232" alt="banner_USBridge" src="https://github.com/user-attachments/assets/4c7e1c59-e074-4aa0-bb59-65f3c7e1e74c" />
 
 [![CrowdSupply](https://img.shields.io/badge/CrowdSupply-Pre--launch-orange?style=flat-square)](https://crowdsupply.com/usbridge-technologies/usbridge-kvm-2-0)
 [![Website](https://img.shields.io/badge/Website-usbridge.io-black?style=flat-square)](https://www.usbridge.io)
@@ -14,7 +14,7 @@
 ### USBridge KVM 2.0
 Hardware KVM-over-IP via a single USB connection. Secure BIOS access over SSH with no external dependencies or cloud reliance.
 
-<img width="1200" height="436" alt="Gemini_Generated_Image_bdtsa0bdtsa090bdts22" src="https://github.com/user-attachments/assets/48b9906f-86a0-4d84-9ebe-6a50c62b649d" />
+<img width="1200" height="436" alt="Gemini_Generated_Image_bdtsa0bdtsa090bdts" src="https://github.com/user-attachments/assets/fccae070-d635-420e-a454-7b7ebaed9b88" />
 
 * **BIOS-in-Terminal:** Real-time on-device OCR translating video environment into a text stream over SSH.
 * **Immutable Storage:** Block-level isolated Btrfs snapshot subsystem to protect backups from host-side tampering.
