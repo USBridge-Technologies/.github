@@ -39,6 +39,18 @@ Unified management interface and cross-platform remote tools. Works as a standal
 
 ---
 
+## Remote Access Feature Matrix
+
+An open, independent, and community-driven comparison matrix for remote desktop software and hardware KVM-over-IP solutions. 
+
+* **Comprehensive Data:** Detailed information about functionality, latency, supported codecs, and hardware capabilities.
+* **Community-Driven:** Anyone can easily contribute or suggest edits without writing a single line of code.
+* **Interactive Web Interface:** A sleek, filterable web matrix designed to help everyone choose the perfect tool for their needs.
+
+👉 **[View Interactive Matrix](https://USBridge-Technologies.github.io/Remote-Access-Feature-Matrix/)** · **[View Repository](https://github.com/USBridge-Technologies/Remote-Access-Feature-Matrix)**
+
+---
+
 ## Hardware Accessories & Extensions
 
 Modular components designed to expand the base appliance functionality.
