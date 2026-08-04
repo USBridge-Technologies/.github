@@ -14,7 +14,8 @@
 ### USBridge KVM 2.0
 Hardware KVM-over-IP via a single USB connection. Secure BIOS access over SSH with no external dependencies or cloud reliance.
 
-<img width="1200" height="436" alt="Gemini_Generated_Image_bdtsa0bdtsa090bdts" src="https://github.com/user-attachments/assets/fccae070-d635-420e-a454-7b7ebaed9b88" />
+<img width="1285" height="720" alt="1" src="https://github.com/user-attachments/assets/32b1c1c7-710b-4275-acc7-24ba4a76ea94" />
+
 
 * **BIOS-in-Terminal:** Real-time on-device OCR translating video environment into a text stream over SSH.
 * **Immutable Storage:** Block-level isolated Btrfs snapshot subsystem to protect backups from host-side tampering.
@@ -30,6 +31,8 @@ Hardware KVM-over-IP via a single USB connection. Secure BIOS access over SSH wi
 ### USBridge Remote Access
 Unified management interface and cross-platform remote tools. Works as a standalone desktop software or in tandem with USBridge hardware infrastructure.
 
+<img width="2558" height="1598" alt="110" src="https://github.com/user-attachments/assets/27a4453d-1c2e-4127-b688-0b5700c9129d" />
+
 * **Streamlined Connectivity:** Native Tailscale integration and QUIC support for secure, zero-configuration NAT traversal.
 * **Cross-Platform Interface:** Native client and lightweight agent applications for Windows, macOS, Linux, and Android.
 * **Hybrid Operations:** Seamless switching between Layer 0 hardware control and standard OS-level remote desktop features.
@@ -42,6 +45,8 @@ Unified management interface and cross-platform remote tools. Works as a standal
 ## Remote Access Feature Matrix
 
 An open, independent, and community-driven comparison matrix for remote desktop software and hardware KVM-over-IP solutions. 
+
+<img width="2537" height="1278" alt="Remote-Access-Feature-Matrix" src="https://github.com/user-attachments/assets/f88cc031-865f-4809-a6f2-a71cb2279702" />
 
 * **Comprehensive Data:** Detailed information about functionality, latency, supported codecs, and hardware capabilities.
 * **Community-Driven:** Anyone can easily contribute or suggest edits without writing a single line of code.
